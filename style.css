@@ -1,0 +1,32 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+}
+
+.container{
+    border: 2px solid;
+    width: 600px;
+    height: auto;
+    color: rgb(57, 57, 100);
+}
+
+#imgflip{
+    height: auto;
+    width: 600px;
+    /* border: 2px solid red; */
+    align-items: center;
+}
+
+#meme{
+    margin: auto 50px auto 50px;
+    color: rgb(57, 57, 100);
+}
+
+#btn{
+    border-radius: 50px;
+    color: rgb(43, 64, 64);
+    background-color: rgb(178, 213, 213);
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
